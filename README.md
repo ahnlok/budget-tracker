@@ -1,26 +1,27 @@
 # **Budget Tracker**
 
 ## **Greetings!**
-### **_This is an app that allows user Add functionality to our existing Budget Tracker application to allow for offline access and functionality._**
+### **_This is an app that allows user add functionality to our existing Budget Tracker application to allow for offline access and functionality._**
+<br />
 
 ### **_The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online._**
 <br />
 
 #### **Offline Functionality:**
 
-##### -Enter deposits offline
-##### -Enter expenses offline
+##### **-Enter deposits offline**
+##### **-Enter expenses offline**
 <br />
 
 #### **When brought back online:**
 
-##### -Offline entries should be added to tracker.
+##### **-Offline entries should be added to tracker.**
 ---
 ## **Languages And Tools:**
 #### **_PWA, MongoDB(mongoose), HTML5, CSS, Javascript, API, and JSON."_**
 ---
 ## **Example Gif:**
-![gif](./burger.gif)
+![gif](budget.gif)
 ## **Link to the video: <https://drive.google.com/file/d/1ObkmP2he3siAAecOBKjAOI411eRE9ioz/view>**
 
 ---
